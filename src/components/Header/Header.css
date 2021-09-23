@@ -1,0 +1,26 @@
+.header {
+    text-align: center;
+}
+
+.header nav a{
+    text-decoration: none;
+    margin-right: 30px;
+    color: aliceblue;
+}
+
+.header nav{
+    background-color: black;
+    line-height: 50px;
+
+}
+
+
+.logo {
+    height: 50px;
+}
+
+.header nav a:hover{
+    background-color: orange;
+    padding: 10px;
+    font-size: 20px;
+}
